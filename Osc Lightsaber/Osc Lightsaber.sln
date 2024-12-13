@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B2FC3F03-4540-8824-E305-0F821DA5E7A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscJack.Runtime", "OscJack.Runtime.csproj", "{827E8F15-B5A1-FD6F-31A2-468C3931E3E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscJack.Editor", "OscJack.Editor.csproj", "{671606B6-F98A-F3B8-9866-1BAE1DF8E310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FC3F03-4540-8824-E305-0F821DA5E7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FC3F03-4540-8824-E305-0F821DA5E7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FC3F03-4540-8824-E305-0F821DA5E7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FC3F03-4540-8824-E305-0F821DA5E7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827E8F15-B5A1-FD6F-31A2-468C3931E3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827E8F15-B5A1-FD6F-31A2-468C3931E3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827E8F15-B5A1-FD6F-31A2-468C3931E3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827E8F15-B5A1-FD6F-31A2-468C3931E3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671606B6-F98A-F3B8-9866-1BAE1DF8E310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671606B6-F98A-F3B8-9866-1BAE1DF8E310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671606B6-F98A-F3B8-9866-1BAE1DF8E310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671606B6-F98A-F3B8-9866-1BAE1DF8E310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
